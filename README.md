@@ -21,5 +21,5 @@ $ npm install
 3) Deploy to now
 
 ```
-$ npm
+$ npm run deploy
 ```
