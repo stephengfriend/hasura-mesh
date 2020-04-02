@@ -1,0 +1,37 @@
+{
+  "name": "hasura-mesh",
+  "version": "0.1.0",
+  "description": "Hasura + GraphQL Mesh = <3",
+  "author": "Stephen G. Friend <hello@stephengfriend.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/stephengfriend/hasura-mesh#readme",
+  "scripts": {
+    "deploy": "now"
+  },
+  "dependencies": {
+    "@graphql-mesh/graphql": "0.0.16",
+    "@graphql-mesh/openapi": "0.0.16",
+    "@graphql-mesh/runtime": "0.0.16-alpha-0383167.40+0383167",
+    "apollo-server-micro": "^2.11.0",
+    "graphql": "^14.6.0"
+  },
+  "devDependencies": {
+    "now": "^17.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephengfriend/hasura-mesh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stephengfriend/hasura-mesh/issues"
+  },
+  "keywords": [
+    "hasura",
+    "graphql",
+    "mesh",
+    "heroku",
+    "swagger",
+    "openapi",
+    "example"
+  ]
+}
