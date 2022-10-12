@@ -11,7 +11,7 @@
   "dependencies": {
     "@graphql-mesh/graphql": "0.0.16",
     "@graphql-mesh/openapi": "0.0.16",
-    "@graphql-mesh/runtime": "0.0.16-alpha-0383167.40+0383167",
+    "@graphql-mesh/runtime": "0.44.21+0383167",
     "apollo-server-micro": "^2.11.0",
     "graphql": "^14.6.0"
   },
